@@ -1,0 +1,17 @@
+{
+"bid" :1,
+"title": "처음 만나는 AI",
+"author": "유키나까",
+"category": "프로그래밍",
+"pages":308,
+"price":20000,
+"published_date":"2021-01-30",
+"description":"인공지능을 공부하는 데 필요한 기초 수학개념을 한 군에 모음"
+}
+
+
+{
+   "subject": "장고란 무엇인가요?",
+   "content": "장고는 어떨때 사용하나요?",
+   "created_date": "2021-01-30",
+}
